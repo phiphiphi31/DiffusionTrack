@@ -18,8 +18,8 @@ Existing Siamese or transformer trackers commonly pose visual object tracking as
 
 
 
-## Citing VideoTrack
-If you find VideoTrack useful in your research, please consider citing:
+## Citing DiffusionTrack
+If you find DiffusionTrack useful in your research, please consider citing:
 
 ```
 
