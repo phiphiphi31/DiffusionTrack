@@ -9,7 +9,7 @@ Fei Xie, Zhongdao Wang, Chao Ma
 ```
 ## Highlights
 
-![compare](figs/compare.png)
+![compare](compare.png)
 Compared to detection-based trackers with a single forward evaluation scheme (a), e.g., SiamRPN, TransT, OStrack~\cite{ostrack}, our proposed DiffusionTrack (c) localizes the target in a progressive diffusion manner. Furthermore, we tailor a point set representation to model the target object for the tracking task instead of adopting existing representations such as noise maps for segmentation and random boxes for object detection. 
 
 
