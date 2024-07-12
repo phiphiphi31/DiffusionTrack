@@ -5,6 +5,7 @@ Fei Xie, Zhongdao Wang, Chao Ma
 ```
 
 :star: The official implementation for the CVPR2024 paper: [DiffusionTrack](https://openaccess.thecvf.com/content/CVPR2024/papers/Xie_DiffusionTrack_Point_Set_Diffusion_Model_for_Visual_Object_Tracking_CVPR_2024_paper.pdf).
+
 :star: We release the bounding box implementation of the DiffusionTrack. More is coming.
 
 ## Abstract
